@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "slime_delight:block/reversed_porcelain_plate"
+    },
+    "facing=east": {
+      "model": "slime_delight:block/reversed_porcelain_plate",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "slime_delight:block/reversed_porcelain_plate",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "slime_delight:block/reversed_porcelain_plate",
+      "y": 270
+    }
+  }
+}

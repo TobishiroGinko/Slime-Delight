@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:nether_brick"
+    },
+    "2": {
+      "item": "minecraft:nether_brick"
+    },
+    "4": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "slime_delight:nether_brick_bowl",
+    "count": 4
+  }
+}

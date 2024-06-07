@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "slime_delight:slime_pocky"
+    },
+    {
+      "item": "slime_delight:slime_pocky"
+    },
+    {
+      "item": "slime_delight:slime_pocky"
+    },
+    {
+      "item": "slime_delight:slime_pocky"
+    },
+    {
+      "item": "minecraft:paper"
+    },
+    {
+      "item": "slime_delight:slime_pocky"
+    },
+    {
+      "item": "slime_delight:slime_pocky"
+    },
+    {
+      "item": "slime_delight:slime_pocky"
+    },
+    {
+      "item": "slime_delight:slime_pocky"
+    }
+  ],
+  "result": {
+    "item": "slime_delight:slime_pocky_box",
+    "count": 1
+  }
+}

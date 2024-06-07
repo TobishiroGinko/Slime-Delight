@@ -1,0 +1,26 @@
+{
+  "type": "farmersdelight:cooking",
+  "container": {
+    "item": "slime_delight:lava_large_bowl"
+  },
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    },
+    {
+      "item": "slime_delight:burnt_fish"
+    },
+    {
+      "item": "slime_delight:burnt_potato"
+    }
+  ],
+  "recipe_book_tab": "meals",
+  "result": {
+    "item": "slime_delight:nether_stew"
+  }
+}

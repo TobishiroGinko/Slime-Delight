@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "slime_delight",
+  "version": "${version}",
+  "name": "Slime Delight",
+  "description": "粘液乐事Fabric版移植~",
+  "authors": [
+    "BrainCrash_mgm","TobishiroGinko"],
+  "contact": {},
+  "license": "LGPL-3.0",
+  "icon": "assets/slime_delight/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.hiedacamellia.slime_delight.client.SlimeDelightClient"
+    ],
+    "main": [
+      "org.hiedacamellia.slime_delight.SlimeDelight"
+    ]
+  },
+  "mixins": [
+    "slime_delight.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.9",
+    "fabric": "*",
+    "minecraft": ">=1.20",
+    "farmersdelight": "*"
+  }
+}

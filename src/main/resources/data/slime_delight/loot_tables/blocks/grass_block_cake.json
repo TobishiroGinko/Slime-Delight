@@ -1,0 +1,22 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "slime_delight:grass_block_cake",
+          "conditions": [
+            {
+              "condition": "minecraft:block_state_property",
+              "block": "slime_delight:grass_block_cake",
+              "properties": {
+                "bites": "0"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

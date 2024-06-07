@@ -1,0 +1,9 @@
+{
+  "parent": "slime_delight:custom/nether_brick_large_bowl",
+  "textures": {
+    "all": "slime_delight:block/nether_brick_large_bowl",
+    "particle": "slime_delight:block/nether_brick_large_bowl_destory",
+    "0": "slime_delight:block/nether_brick_large_bowl"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "farmersdelight:cutting",
+  "ingredients": [
+    {
+      "item": "slime_delight:grass_block_cake"
+    }
+  ],
+  "result": [
+    {
+      "count": 7,
+      "item": "slime_delight:slice_grass_block_cake"
+    }
+  ],
+  "tool": {
+    "tag": "c:tools/knives"
+  }
+}

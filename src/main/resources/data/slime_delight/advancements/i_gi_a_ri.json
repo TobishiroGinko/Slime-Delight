@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "slime_delight:reversed_porcelain_plate"
+    },
+    "title": {
+      "translate": "advancements.i_gi_a_ri.title"
+    },
+    "description": {
+      "translate": "advancements.i_gi_a_ri.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "i_gi_a_ri": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "slime_delight:reversed_porcelain_plate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 64
+            }
+          }
+        ]
+      }
+    }
+  },
+  "parent": "minecraft:husbandry/root"
+}

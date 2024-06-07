@@ -1,0 +1,102 @@
+{
+  "variants": {
+    "bites=0": [
+      {
+        "model": "slime_delight:block/grass_block_cake_1"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_1"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_1"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_1"
+      }
+    ],
+    "bites=1":[
+      {
+        "model": "slime_delight:block/grass_block_cake_2"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_2"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_2"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_2"
+      }
+    ],
+    "bites=2":[
+      {
+        "model": "slime_delight:block/grass_block_cake_3"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_3"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_3"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_3"
+      }
+    ],
+    "bites=3": [
+      {
+        "model": "slime_delight:block/grass_block_cake_4"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_4"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_4"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_4"
+      }
+    ],
+    "bites=4":[
+      {
+        "model": "slime_delight:block/grass_block_cake_5"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_5"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_5"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_5"
+      }
+    ],
+    "bites=5":[
+      {
+        "model": "slime_delight:block/grass_block_cake_6"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_6"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_6"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_6"
+      }
+    ],
+    "bites=6":[
+      {
+        "model": "slime_delight:block/grass_block_cake_7"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_7"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_7"
+      },
+      {
+        "model": "slime_delight:block/grass_block_cake_7"
+      }
+    ]
+  }
+}

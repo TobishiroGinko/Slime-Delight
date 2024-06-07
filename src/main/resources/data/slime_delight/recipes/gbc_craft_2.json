@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "slime_delight:slice_grass_block_cake"
+    },
+    {
+      "item": "slime_delight:slice_grass_block_cake"
+    },
+    {
+      "item": "slime_delight:slice_grass_block_cake"
+    },
+    {
+      "item": "slime_delight:slice_grass_block_cake"
+    },
+    {
+      "item": "slime_delight:slice_grass_block_cake"
+    },
+    {
+      "item": "slime_delight:slice_grass_block_cake"
+    },
+    {
+      "item": "slime_delight:slice_grass_block_cake"
+    }
+  ],
+  "result": {
+    "item": "slime_delight:grass_block_cake",
+    "count": 1
+  }
+}

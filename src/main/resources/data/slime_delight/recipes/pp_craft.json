@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0 2",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:quartz"
+    },
+    "2": {
+      "item": "minecraft:quartz"
+    },
+    "4": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "result": {
+    "item": "slime_delight:porcelain_plate",
+    "count": 1
+  }
+}

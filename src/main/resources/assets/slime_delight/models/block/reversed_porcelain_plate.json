@@ -1,0 +1,9 @@
+{
+  "parent": "slime_delight:custom/reversed_porcelain_plate",
+  "textures": {
+    "all": "slime_delight:block/porcelain_plate",
+    "particle": "slime_delight:block/reversed_porcelain_plate_destory",
+    "0": "slime_delight:block/porcelain_plate"
+  },
+  "render_type": "solid"
+}

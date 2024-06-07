@@ -1,0 +1,79 @@
+{
+  "variants": {
+    "facing=north,servings=4": {
+      "model": "slime_delight:block/nether_stew_1"
+    },
+    "facing=east,servings=4": {
+      "model": "slime_delight:block/nether_stew_1",
+      "y": 90
+    },
+    "facing=south,servings=4": {
+      "model": "slime_delight:block/nether_stew_1",
+      "y": 180
+    },
+    "facing=west,servings=4": {
+      "model": "slime_delight:block/nether_stew_1",
+      "y": 270
+    },
+    "facing=north,servings=3": {
+      "model": "slime_delight:block/nether_stew_2"
+    },
+    "facing=east,servings=3": {
+      "model": "slime_delight:block/nether_stew_2",
+      "y": 90
+    },
+    "facing=south,,servings=3": {
+      "model": "slime_delight:block/nether_stew_2",
+      "y": 180
+    },
+    "facing=west,servings=3": {
+      "model": "slime_delight:block/nether_stew_2",
+      "y": 270
+    },
+    "facing=north,servings=2": {
+      "model": "slime_delight:block/nether_stew_3"
+    },
+    "facing=east,servings=2": {
+      "model": "slime_delight:block/nether_stew_3",
+      "y": 90
+    },
+    "facing=south,servings=2": {
+      "model": "slime_delight:block/nether_stew_3",
+      "y": 180
+    },
+    "facing=west,servings=2": {
+      "model": "slime_delight:block/nether_stew_3",
+      "y": 270
+    },
+    "facing=north,servings=1": {
+      "model": "slime_delight:block/nether_stew_4"
+    },
+    "facing=east,servings=1": {
+      "model": "slime_delight:block/nether_stew_4",
+      "y": 90
+    },
+    "facing=south,servings=1": {
+      "model": "slime_delight:block/nether_stew_4",
+      "y": 180
+    },
+    "facing=west,servings=1": {
+      "model": "slime_delight:block/nether_stew_4",
+      "y": 270
+    },
+    "facing=north,servings=0": {
+      "model": "slime_delight:block/nether_brick_large_bowl"
+    },
+    "facing=east,servings=0": {
+      "model": "slime_delight:block/nether_brick_large_bowl",
+      "y": 90
+    },
+    "facing=south,servings=0": {
+      "model": "slime_delight:block/nether_brick_large_bowl",
+      "y": 180
+    },
+    "facing=west,servings=0": {
+      "model": "slime_delight:block/nether_brick_large_bowl",
+      "y": 270
+    }
+  }
+}

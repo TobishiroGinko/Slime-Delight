@@ -1,0 +1,9 @@
+{
+  "parent": "slime_delight:custom/slime_pocky_box",
+  "textures": {
+    "all": "slime_delight:block/slime_pocky_box_texture",
+    "particle": "slime_delight:block/slime_pocky_box_texture",
+    "0": "slime_delight:block/slime_pocky_box_texture"
+  },
+  "render_type": "solid"
+}
